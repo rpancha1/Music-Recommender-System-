@@ -5,7 +5,7 @@ Used publicly available song data from audioscrobbler, applied collaborative fil
 Steps to run : 
 
 1) Download the Raw data provided.
-2) Run the prmody.ipynb file 
+2) Run the project.ipynb file 
 
 OUTPUT : 
 
